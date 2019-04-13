@@ -1,0 +1,31 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"1337 Color Scheme",
+		"A File Icon",
+		"Anaconda",
+		"BracketHighlighter",
+		"ClangAutoComplete",
+		"Conky.tmLanguage",
+		"EasyClangComplete",
+		"GNU Octave Completions",
+		"Gringo",
+		"Hermes",
+		"LanguageTool",
+		"Material Theme",
+		"Package Control",
+		"Predawn",
+		"Predawn Twilight Theme",
+		"SideBarEnhancements",
+		"SublimeAStyleFormatter",
+		"SublimeREPL"
+	],
+	"repositories":
+	[
+		"https://github.com/tushortz/GNU-Octave-Completions"
+	]
+}
